@@ -126,3 +126,4 @@
 |------|------|----------|------|
 | 第1课 | ✅ 完成 | 2026-03-28 | 核心概念、生命周期、Transform、Input、SerializeField |
 | 第2课 | ✅ 完成 | 2026-03-31 | C#模式、Vector3、协程、Gizmos、Input、追逐小游戏 |
+| 第3课 | ✅ 完成 | 2026-04-05 | Rigidbody、Collider、Trigger、碰撞检测、物理材质 |

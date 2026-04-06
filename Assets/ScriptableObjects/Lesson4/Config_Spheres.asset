@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5d56271b85cc5849ba9dee0ad238597, type: 3}
   m_Name: Config_Spheres
   m_EditorClassIdentifier: 
-  configName: "\u9ED8\u8BA4\u914D\u7F6E"
-  prefab: {fileID: 0}
-  spawnCount: 5
-  spawnInterval: 0.5
+  configName: "\u5F39\u7403"
+  prefab: {fileID: 635410465479874646, guid: ec9c2d80013d02f4da302dad41652581, type: 3}
+  spawnCount: 12
+  spawnInterval: 0.1
   spawnRadius: 5
-  launchForce: 5
+  launchForce: 12
   useGravity: 1
   lifetime: 5
-  color: {r: 1, g: 1, b: 1, a: 1}
+  color: {r: 0.8679245, g: 0.23199224, b: 0.42806655, a: 1}

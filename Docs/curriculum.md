@@ -128,3 +128,4 @@
 | 第2课 | ✅ 完成 | 2026-03-31 | C#模式、Vector3、协程、Gizmos、Input、追逐小游戏 |
 | 第3课 | ✅ 完成 | 2026-04-05 | Rigidbody、Collider、Trigger、碰撞检测、物理材质 |
 | 第4课 | ✅ 完成 | 2026-04-07 | Prefab工作流、资源结构、ScriptableObject、免费资源 |
+| 第5课 | ✅ 完成 | 2026-04-12 | Sprite、SpriteRenderer、2D物理、Sorting Layer、Animation |
